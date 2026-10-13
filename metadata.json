@@ -1,0 +1,6 @@
+{
+  "name": "WeatherGuard AI - Meteorological QA & Sensor Anomaly Detection",
+  "description": "Automated weather station QA system detecting physical limits (e.g. 95°C spikes), frozen sensor persistence, and missing telemetry with WMO-compliant validation and Gemini diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
